@@ -1,0 +1,17 @@
+{
+  "name" : "kbide-plugin-gy-sht31-digital-temperature-and-humidity-i2c",
+  "title": "gy-sht31-digital-temperature-and-humidity-i2c",
+  "keywords": "gy-sht31-digital-temperature-and-humidity-i2c, esp32, esp8266, arduino",
+  "description": "gy-sht31-digital-temperature-and-humidity-i2c plugin for KB-IDE",
+  "category":"",
+  "git": "https://github.com/cmmc-kbide/kbide-plugin-gy-sht31-digital-temperature-and-humidity-i2c/",
+  "author": "cmmakerclub",
+  "email": "",
+  "url": "https://github.com/cmmc-kbide/kbide-plugin-gy-sht31-digital-temperature-and-humidity-i2c/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "license": "",
+  "image" : "/static/display.png",
+  "homepage": "http://www.kbide.org"
+}
